@@ -1,4 +1,5 @@
 # browser-support
 
-(auto adding polyfills)
-(when using es6 modules) - [https://v8.dev/features/modules#browser]
+**auto adding polyfills**
+
+[https://v8.dev/features/modules#browser] - (when using es6 modules)
